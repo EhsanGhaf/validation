@@ -1,0 +1,15 @@
+{
+    "name": "wallex/composer-package",
+    "authors": [
+        {
+            "name": "EhsanGhaf",
+            "email": "ghaf_ehsan@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RoocketValidator\\":"src/"
+        }
+    }
+}
